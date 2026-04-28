@@ -1,16 +1,63 @@
-## Hi there 👋
+# <h1 align="center">Hi 👋 I'm Krut Panda</h1>
 
-<!--
-**krutpanda/krutpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🔐 Cybersecurity Learner | 🐞 Bug Bounty | 📈 Trader | 🐧 Linux User
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+- Learning Web Security & Ethical Hacking  
+- Exploring Bug Bounty Hunting  
+- Building trading and security projects  
+- Linux enthusiast  
+
+---
+
+## ⚒️ Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=krutpanda&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=krutpanda&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krutpanda&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/krutpanda/krutpanda/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🧰 Tools I Use
+
+- Burp Suite
+- Nmap
+- Wireshark
+- SQLMap
+- Git
+
+---
+
+## 📌 Featured Projects
+
+- Security Notes
+- Trading Tools
+- Bug Bounty Labs
+
+---
+
+## 🌐 Connect
+
+GitHub: https://github.com/krutpanda
