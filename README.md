@@ -1,63 +1,127 @@
-# <h1 align="center">Hi 👋 I'm Krut Panda</h1>
-
 <p align="center">
-🔐 Cybersecurity Learner | 🐞 Bug Bounty | 📈 Trader | 🐧 Linux User
+<img src="https://media.giphy.com/media/ieBWQkIVEELhbizGAp/giphy.gif" width="700">
 </p>
 
+<h1 align="center">🕶 KRUT PANDA // HACK THE PLANET 🕶</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF41&center=true&vCenter=true&lines=Initializing...;Recon+Mode+Active;Bug+Bounty+Hunter;Linux+Terminal+Dweller;Trader+%26+Builder">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=krutpanda&color=00ff41&style=for-the-badge">
+</p>
+
+```bash
+┌──(root㉿krut)-[~/cyber]
+└─$ whoami
+
+Krut Panda
+Bug Bounty Hunter
+Cybersecurity Learner
+Linux User
+Trader / Builder
+```
+
+## ☠ Operator Banner
+
+```text
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣀
+⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣦
+⠀⠀⠀⠀⠀⣰⣿⣿⠿⠛⠛⠿⣿⣿⣆
+⠀⠀⠀⠀⢰⣿⡟⠀⠀☠⠀⠀⢻⣿⡆
+⠀⠀⠀⠀⣿⣿⣇⠀⠀⠀⠀⠀⣸⣿⣿
+⠀⠀⠀⠀⠸⣿⣿⣦⣀⣀⣠⣴⣿⣿⠇
+⠀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⠿⠋
+```
+
 ---
 
-## 💻 About Me
+## 🔮 Current Focus
 
-- Learning Web Security & Ethical Hacking  
-- Exploring Bug Bounty Hunting  
-- Building trading and security projects  
-- Linux enthusiast  
-
----
-
-## ⚒️ Tech Stack
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge)
+- Web Security Recon  
+- API Testing  
+- Bug Bounty Hunting  
+- Order Flow Tools  
+- Automation Experiments  
 
 ---
 
-## 📊 GitHub Stats
+## ⚔ Tech Arsenal
 
-![Stats](https://github-readme-stats.vercel.app/api?username=krutpanda&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=krutpanda&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krutpanda&layout=compact&theme=tokyonight)
+![Linux](https://img.shields.io/badge/Linux-00ff41?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-00ff41?style=for-the-badge&logo=python&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-00ff41?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00ff41?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-00ff41?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-00ff41?style=for-the-badge&logo=git&logoColor=black)
 
 ---
 
-## 🐍 Contribution Snake
+## 🐞 Bug Bounty Targets
+
+- Authentication Testing  
+- IDOR Hunting  
+- Recon Automation  
+- Web Exploitation  
+- API Security  
+
+---
+
+## 📊 System Metrics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=krutpanda&show_icons=true&theme=chartreuse-dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=krutpanda&theme=chartreuse-dark)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krutpanda&layout=compact&theme=chartreuse-dark)
+
+---
+
+## 🐍 Threat Feed
 
 ![Snake](https://raw.githubusercontent.com/krutpanda/krutpanda/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🧰 Tools I Use
+## 🔓 Access Log
 
-- Burp Suite
-- Nmap
-- Wireshark
-- SQLMap
-- Git
+```bash
+Recon Status: ACTIVE
+Targets Monitored: YES
+Exploits Loaded: PENDING
+Coffee Level: CRITICAL
+```
+
+```diff
++ Think Deep
++ Test Ethically
++ Report Responsibly
+- Sleep Disabled
+```
+
+```bash
+There is no patch.
+Only attack surface.
+```
 
 ---
 
-## 📌 Featured Projects
+## 📌 Active Projects
 
-- Security Notes
-- Trading Tools
-- Bug Bounty Labs
+- Offensive Security Notes  
+- Trading Tools  
+- Automation Scripts  
+- Bug Bounty Recon Toolkit  
 
 ---
 
-## 🌐 Connect
+## 🌐 Access Node
 
-GitHub: https://github.com/krutpanda
+GitHub → https://github.com/krutpanda
+
+```bash
+Connection Secure.
+Signal Strong.
+Happy Hunting.
+```
