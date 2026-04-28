@@ -20,11 +20,29 @@
 ![Trader](https://img.shields.io/badge/TRADER-00ff41?style=for-the-badge)
 
 </p>
+
+---
+
 ## ☠ Operator Boot Sequence
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1200&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=900&height=180&lines=%5B%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+10%25+Initializing...;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+30%25+Loading+Recon+Modules...;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+60%25+Enabling+Stealth...;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%5D+80%25+Scanning+Targets...;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%5D+100%25+Operator+Online">
 </p>
+
+---
+
+## 🟢 Status Lights
+
+```diff
++ SYSTEM ONLINE
++ RECON ACTIVE
++ STEALTH ENABLED
+! TARGETS SCANNING
+- SLEEP DISABLED
+```
+
+---
+
 ## 🔮 Current Focus
 
 - Web Security Recon  
@@ -56,13 +74,25 @@
 
 ---
 
-## 📊 System Metrics
+## 🏆 Operator Dashboard
 
-![Stats](https://github-readme-stats.vercel.app/api?username=krutpanda&show_icons=true&theme=chartreuse-dark)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=krutpanda&theme=matrix&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=krutpanda&theme=chartreuse-dark)
+---
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krutpanda&layout=compact&theme=chartreuse-dark)
+## 📊 GitHub Command Center
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krutpanda&show_icons=true&theme=chartreuse-dark"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krutpanda&theme=chartreuse-dark"/>
+</p>
+
+<p align="center">
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=krutpanda&theme=react-dark&bg_color=000000&color=00ff41&line=00ff41&point=ffffff"/>
+</p>
 
 ---
 
